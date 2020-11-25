@@ -1,6 +1,6 @@
 # React-Native-Project-4
 
-<h1 align="center">Tırı Vırı Game App</h1>
+<h1 align="center">Tiri Viri Game App</h1>
 
 
 <!-- TABLE OF CONTENTS -->
